@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>simpleBLETest/CC2541</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>397</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13168-28330</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>simpleBLETest</ExpandedNode><ExpandedNode>simpleBLETest/APP</ExpandedNode><ExpandedNode>simpleBLETest/HAL</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Common</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Include</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Target</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Target/CC2540EB</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Target/CC2540EB/Config</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Target/CC2540EB/Drivers</ExpandedNode><ExpandedNode>simpleBLETest/HAL/Target/CC2540EB/Includes</ExpandedNode><ExpandedNode>simpleBLETest/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-1082-497</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\include\hal_drivers.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>4117</SelStart><SelEnd>4117</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_board_cfg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>748</SelStart><SelEnd>748</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\oled_main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>384</SelStart><SelEnd>384</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\include\hal_adc.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>2409</SelStart><SelEnd>2409</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\include\hal_lcd.h</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>4364</SelStart><SelEnd>4364</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\oled.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1017</SelStart><SelEnd>1017</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\oled.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>39</SelStart><SelEnd>39</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_lcd.c</Filename><XPos>0</XPos><YPos>270</YPos><SelStart>6568</SelStart><SelEnd>6568</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\ds18b20.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>85</SelStart><SelEnd>97</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_mcu.h</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>4380</SelStart><SelEnd>4380</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\simpleBLETest.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>3488</SelStart><SelEnd>3488</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\oled_main.c</Filename><XPos>0</XPos><YPos>524</YPos><SelStart>13657</SelStart><SelEnd>13657</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\include\hal_key.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>4498</SelStart><SelEnd>4498</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\OSAL_SimpleBLETest.c</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>3544</SelStart><SelEnd>3560</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\osal\common\OSAL.c</Filename><XPos>0</XPos><YPos>507</YPos><SelStart>15571</SelStart><SelEnd>15571</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_adc.c</Filename><XPos>0</XPos><YPos>146</YPos><SelStart>7040</SelStart><SelEnd>7040</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\osal\common\OSAL_Timers.c</Filename><XPos>0</XPos><YPos>306</YPos><SelStart>11938</SelStart><SelEnd>11938</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\common\hal_drivers.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>6860</SelStart><SelEnd>6860</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_key.c</Filename><XPos>0</XPos><YPos>483</YPos><SelStart>2179</SelStart><SelEnd>2179</SelEnd></Tab><ActiveTab>18</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\SimpleBLETest_Main.c</Filename><XPos>0</XPos><YPos>68</YPos><SelStart>3663</SelStart><SelEnd>3663</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\simpleBLETest.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>2581</SelStart><SelEnd>2581</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\common\cc2540\OnBoard.c</Filename><XPos>0</XPos><YPos>278</YPos><SelStart>8604</SelStart><SelEnd>8604</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_timer.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\include\hal_timer.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>2410</SelStart><SelEnd>2410</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-026ad8a8><key>iaridepm.enu1</key></Toolbar-026ad8a8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>777</Bottom><Right>488</Right><x>-2</x><y>-2</y><xscreen>316</xscreen><yscreen>302</yscreen><sizeHorzCX>188095</sizeHorzCX><sizeHorzCY>311983</sizeHorzCY><sizeVertCX>291667</sizeVertCX><sizeVertCY>804752</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>146</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>148</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>152893</sizeHorzCY><sizeVertCX>188095</sizeVertCX><sizeVertCY>311983</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
